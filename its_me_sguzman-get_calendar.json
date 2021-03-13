@@ -1,0 +1,3770 @@
+[
+    {
+        "datetime": 1613826818000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "f2fd9756abe5ec66d1fa29d7bd0dabcc"
+    },
+    {
+        "datetime": 1613826912000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613828021000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613828218000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613828270000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613828526000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613840722000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613840839000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613840925000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613842025000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613842273000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613842464000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613842626000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613842694000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613842763000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "7c708367f248ddb53027e851eda9c45a"
+    },
+    {
+        "datetime": 1613842844000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613842922000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613842995000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613843083000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613843168000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613843245000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613843357000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613843499000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613843655000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613843956000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613844663000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613844757000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613844960000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "33f1d8ceebf80f5baa5ca305afdcd399"
+    },
+    {
+        "datetime": 1613845045000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "812883de38afbc0d0376728f9bfa7d21"
+    },
+    {
+        "datetime": 1613845144000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "05901bbe6fcc68047fc563a841854221"
+    },
+    {
+        "datetime": 1613853566000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613853680000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613853815000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613854037000,
+        "event_type": "practice",
+        "improvement": 22,
+        "skill_id": "3d9037a659423cd90f6b4f8e3336ab4a"
+    },
+    {
+        "datetime": 1613854116000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "dff2608d888391eac62ee94cfc8e032b"
+    },
+    {
+        "datetime": 1613854197000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "dff2608d888391eac62ee94cfc8e032b"
+    },
+    {
+        "datetime": 1613854232000,
+        "event_type": "practice",
+        "improvement": 50,
+        "skill_id": "dff2608d888391eac62ee94cfc8e032b"
+    },
+    {
+        "datetime": 1613854374000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "86cee569cf2d4b5dbaa4843c5529eac8"
+    },
+    {
+        "datetime": 1613854487000,
+        "event_type": "practice",
+        "improvement": 8,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613854531000,
+        "event_type": "practice",
+        "improvement": 12,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613854634000,
+        "event_type": "practice",
+        "improvement": 16,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613897957000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "63b25128bd3db6cd6ce38f6825a4971d"
+    },
+    {
+        "datetime": 1613898441000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "eadb3eab284c7b1ef175179fc0c822b5"
+    },
+    {
+        "datetime": 1613898605000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "fb0791967ab759c4fd484702fd07f6e2"
+    },
+    {
+        "datetime": 1613898742000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "a896d0e0052dbbe02ed6fd0858e483da"
+    },
+    {
+        "datetime": 1613898893000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "a896d0e0052dbbe02ed6fd0858e483da"
+    },
+    {
+        "datetime": 1613898984000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "a896d0e0052dbbe02ed6fd0858e483da"
+    },
+    {
+        "datetime": 1613899125000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "b84c10b4af6dce601b04ad87eef26521"
+    },
+    {
+        "datetime": 1613899313000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "6f4cddb9831c366bc56ef1abf343a5d7"
+    },
+    {
+        "datetime": 1613899422000,
+        "event_type": "practice",
+        "improvement": 8,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613899480000,
+        "event_type": "practice",
+        "improvement": 12,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613899563000,
+        "event_type": "practice",
+        "improvement": 16,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613899682000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613899824000,
+        "event_type": "practice",
+        "improvement": 24,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613899928000,
+        "event_type": "practice",
+        "improvement": 28,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613900050000,
+        "event_type": "practice",
+        "improvement": 32,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613900177000,
+        "event_type": "practice",
+        "improvement": 36,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613900310000,
+        "event_type": "practice",
+        "improvement": 40,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613900537000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "b2096b87857e3cdded7d851fbc7185fb"
+    },
+    {
+        "datetime": 1613926761000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "b2096b87857e3cdded7d851fbc7185fb"
+    },
+    {
+        "datetime": 1613927438000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "b2096b87857e3cdded7d851fbc7185fb"
+    },
+    {
+        "datetime": 1613927839000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "a896d0e0052dbbe02ed6fd0858e483da"
+    },
+    {
+        "datetime": 1613927996000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "a896d0e0052dbbe02ed6fd0858e483da"
+    },
+    {
+        "datetime": 1613928741000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "a896d0e0052dbbe02ed6fd0858e483da"
+    },
+    {
+        "datetime": 1613929723000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "a896d0e0052dbbe02ed6fd0858e483da"
+    },
+    {
+        "datetime": 1613930088000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "757ba23ac9abc8b3d846b34958273c59"
+    },
+    {
+        "datetime": 1613931243000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "ff23ab2d43b0c2faae1ef9a31f6c4763"
+    },
+    {
+        "datetime": 1613931437000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "b2096b87857e3cdded7d851fbc7185fb"
+    },
+    {
+        "datetime": 1613931678000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613931894000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "ff23ab2d43b0c2faae1ef9a31f6c4763"
+    },
+    {
+        "datetime": 1613931982000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613956932000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "507161eab1c8b4b98084b77c87ffa7ba"
+    },
+    {
+        "datetime": 1613978344000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613978416000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613978488000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613978616000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613978753000,
+        "event_type": "practice",
+        "improvement": 22,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613978863000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613978997000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613979151000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613979369000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613979506000,
+        "event_type": "practice",
+        "improvement": 48,
+        "skill_id": "37037607b7becda7cfa6e985401488ee"
+    },
+    {
+        "datetime": 1613979810000,
+        "event_type": null,
+        "improvement": 20,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613979849000,
+        "event_type": null,
+        "improvement": 4,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613979993000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "507161eab1c8b4b98084b77c87ffa7ba"
+    },
+    {
+        "datetime": 1613980159000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "b2096b87857e3cdded7d851fbc7185fb"
+    },
+    {
+        "datetime": 1613980617000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "b2096b87857e3cdded7d851fbc7185fb"
+    },
+    {
+        "datetime": 1613980685000,
+        "event_type": null,
+        "improvement": 8,
+        "skill_id": null
+    },
+    {
+        "datetime": 1613980941000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "4c97b07f23a4a3bcb4baec563b859dcf"
+    },
+    {
+        "datetime": 1613981142000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "9c13bdbc2eed8d24d69f4b0864491e30"
+    },
+    {
+        "datetime": 1613982469000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1613982695000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1613983032000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1613983244000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1613983523000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1613983695000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1613983959000,
+        "event_type": "practice",
+        "improvement": 21,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1613984146000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b55b07b88f44ef36731ab0d656cbb5ee"
+    },
+    {
+        "datetime": 1613984387000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "b55b07b88f44ef36731ab0d656cbb5ee"
+    },
+    {
+        "datetime": 1614005102000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "3b82513a9a615e61893820f9ad4d9fb5"
+    },
+    {
+        "datetime": 1614006264000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614007206000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614007531000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614007768000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614008059000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614008249000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1614008369000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1614008559000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1614008693000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1614008889000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1614009104000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1614009421000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "b55b07b88f44ef36731ab0d656cbb5ee"
+    },
+    {
+        "datetime": 1614009772000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "f6cfa7eb534eb233a4cd5897f37aebf8"
+    },
+    {
+        "datetime": 1614010025000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "f6cfa7eb534eb233a4cd5897f37aebf8"
+    },
+    {
+        "datetime": 1614050108000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614050317000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614050736000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614050948000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614051274000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614051476000,
+        "event_type": null,
+        "improvement": 20,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614051503000,
+        "event_type": null,
+        "improvement": 2,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614051741000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614052344000,
+        "event_type": "practice",
+        "improvement": 0,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614052470000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614052607000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614052741000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614053038000,
+        "event_type": null,
+        "improvement": 20,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614053381000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614053720000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614054087000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614054589000,
+        "event_type": "practice",
+        "improvement": 24,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614055079000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "0dc4d42d2d73d7a6a5208d59081c6b99"
+    },
+    {
+        "datetime": 1614055208000,
+        "event_type": null,
+        "improvement": 14,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614055303000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1614055411000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1614055495000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1614055543000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1614055639000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1614055753000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1614055851000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1614055936000,
+        "event_type": "practice",
+        "improvement": 46,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1614055977000,
+        "event_type": null,
+        "improvement": 6,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614056020000,
+        "event_type": null,
+        "improvement": 4,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614056106000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614056231000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614056515000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614056798000,
+        "event_type": "practice",
+        "improvement": 24,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614056852000,
+        "event_type": null,
+        "improvement": 6,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614057033000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "f6cfa7eb534eb233a4cd5897f37aebf8"
+    },
+    {
+        "datetime": 1614057285000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "4162b2891e4ba0aa19092655e2d13039"
+    },
+    {
+        "datetime": 1614057422000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "b55b07b88f44ef36731ab0d656cbb5ee"
+    },
+    {
+        "datetime": 1614057542000,
+        "event_type": null,
+        "improvement": 10,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614057720000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "b55b07b88f44ef36731ab0d656cbb5ee"
+    },
+    {
+        "datetime": 1614057915000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "b55b07b88f44ef36731ab0d656cbb5ee"
+    },
+    {
+        "datetime": 1614058127000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "b55b07b88f44ef36731ab0d656cbb5ee"
+    },
+    {
+        "datetime": 1614058353000,
+        "event_type": "practice",
+        "improvement": 24,
+        "skill_id": "b55b07b88f44ef36731ab0d656cbb5ee"
+    },
+    {
+        "datetime": 1614058440000,
+        "event_type": null,
+        "improvement": 8,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614058587000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614058696000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614058914000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614059148000,
+        "event_type": "practice",
+        "improvement": 44,
+        "skill_id": "43342b64771cc7fba6d95f545bb8f4f0"
+    },
+    {
+        "datetime": 1614060770000,
+        "event_type": null,
+        "improvement": 16,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614061141000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614061514000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614093139000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "8f37a0374566ce77cce845a72381dbaa"
+    },
+    {
+        "datetime": 1614094259000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "64921ded6823e564da97bbe379c1d585"
+    },
+    {
+        "datetime": 1614094568000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "50cb0e4b65671356565daa78fa858246"
+    },
+    {
+        "datetime": 1614094636000,
+        "event_type": null,
+        "improvement": 10,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614094771000,
+        "event_type": "practice",
+        "improvement": 40,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614094903000,
+        "event_type": "practice",
+        "improvement": 40,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614107696000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614107877000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614108020000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614108144000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614108306000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614108445000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614108593000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614108682000,
+        "event_type": "practice",
+        "improvement": 23,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614108810000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614108918000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614109039000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614109217000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614109358000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614109467000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614109605000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614109766000,
+        "event_type": "practice",
+        "improvement": 24,
+        "skill_id": "d1405a99d13f5fd51a3b2f575c01fc2a"
+    },
+    {
+        "datetime": 1614109869000,
+        "event_type": null,
+        "improvement": 20,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614109913000,
+        "event_type": null,
+        "improvement": 6,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614110154000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "36bad985a7667ceac680cbc037350481"
+    },
+    {
+        "datetime": 1614110281000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614110362000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614110536000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614110612000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614110701000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614110846000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614110928000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614111043000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614111116000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614111212000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614111404000,
+        "event_type": "practice",
+        "improvement": 44,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614111543000,
+        "event_type": null,
+        "improvement": 18,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614112347000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614112474000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614112647000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614112766000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614112846000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614113061000,
+        "event_type": "practice",
+        "improvement": 23,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1614117759000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "a3cf491d44d20584b45b36c47f663728"
+    },
+    {
+        "datetime": 1614117850000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "a3cf491d44d20584b45b36c47f663728"
+    },
+    {
+        "datetime": 1614117929000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "a3cf491d44d20584b45b36c47f663728"
+    },
+    {
+        "datetime": 1614120080000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "a3cf491d44d20584b45b36c47f663728"
+    },
+    {
+        "datetime": 1614120468000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "a3cf491d44d20584b45b36c47f663728"
+    },
+    {
+        "datetime": 1614137351000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "a3cf491d44d20584b45b36c47f663728"
+    },
+    {
+        "datetime": 1614137430000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "529f72c3b355bce52aed16730d8d9efd"
+    },
+    {
+        "datetime": 1614137638000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "529f72c3b355bce52aed16730d8d9efd"
+    },
+    {
+        "datetime": 1614137695000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "529f72c3b355bce52aed16730d8d9efd"
+    },
+    {
+        "datetime": 1614137741000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "529f72c3b355bce52aed16730d8d9efd"
+    },
+    {
+        "datetime": 1614137856000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "529f72c3b355bce52aed16730d8d9efd"
+    },
+    {
+        "datetime": 1614137914000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "529f72c3b355bce52aed16730d8d9efd"
+    },
+    {
+        "datetime": 1614137953000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "529f72c3b355bce52aed16730d8d9efd"
+    },
+    {
+        "datetime": 1614138205000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "529f72c3b355bce52aed16730d8d9efd"
+    },
+    {
+        "datetime": 1614138271000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "529f72c3b355bce52aed16730d8d9efd"
+    },
+    {
+        "datetime": 1614138342000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "529f72c3b355bce52aed16730d8d9efd"
+    },
+    {
+        "datetime": 1614141220000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "872f3c4fbb842fc99d16b62d6866fac2"
+    },
+    {
+        "datetime": 1614141903000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "872f3c4fbb842fc99d16b62d6866fac2"
+    },
+    {
+        "datetime": 1614141981000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "872f3c4fbb842fc99d16b62d6866fac2"
+    },
+    {
+        "datetime": 1614173193000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "faeb020c5e7ce62a0a9f6d32dfdd4927"
+    },
+    {
+        "datetime": 1614173618000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "884d6496df32fbc93937e5b590cb1a07"
+    },
+    {
+        "datetime": 1614174375000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "ac123456952d9cda786b47abea540d1b"
+    },
+    {
+        "datetime": 1614174492000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614174578000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614174658000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614174799000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614174988000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "57756a0f0fd46db6f19ced10c540def0"
+    },
+    {
+        "datetime": 1614198246000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "48c1823a223749ae21671449b383bae4"
+    },
+    {
+        "datetime": 1614199044000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "c45253f3bb7231ba69a91a3d4eac4775"
+    },
+    {
+        "datetime": 1614202679000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "a9221e52a05ababf95f37d4f566c4b98"
+    },
+    {
+        "datetime": 1614202789000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "a9221e52a05ababf95f37d4f566c4b98"
+    },
+    {
+        "datetime": 1614202873000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "a9221e52a05ababf95f37d4f566c4b98"
+    },
+    {
+        "datetime": 1614203848000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "a9221e52a05ababf95f37d4f566c4b98"
+    },
+    {
+        "datetime": 1614204061000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "a9221e52a05ababf95f37d4f566c4b98"
+    },
+    {
+        "datetime": 1614207536000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "a9221e52a05ababf95f37d4f566c4b98"
+    },
+    {
+        "datetime": 1614207616000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "f851c83e7809291dd913c37b4c83f54d"
+    },
+    {
+        "datetime": 1614207799000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "f851c83e7809291dd913c37b4c83f54d"
+    },
+    {
+        "datetime": 1614207909000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f851c83e7809291dd913c37b4c83f54d"
+    },
+    {
+        "datetime": 1614208301000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "f851c83e7809291dd913c37b4c83f54d"
+    },
+    {
+        "datetime": 1614209221000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f851c83e7809291dd913c37b4c83f54d"
+    },
+    {
+        "datetime": 1614209337000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "f851c83e7809291dd913c37b4c83f54d"
+    },
+    {
+        "datetime": 1614210245000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f851c83e7809291dd913c37b4c83f54d"
+    },
+    {
+        "datetime": 1614211262000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f851c83e7809291dd913c37b4c83f54d"
+    },
+    {
+        "datetime": 1614211934000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f851c83e7809291dd913c37b4c83f54d"
+    },
+    {
+        "datetime": 1614211993000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f851c83e7809291dd913c37b4c83f54d"
+    },
+    {
+        "datetime": 1614213245000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614213338000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614213719000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614214902000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614215785000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614216557000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614216855000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614217077000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614217125000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614217200000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614217355000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614217597000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9c65e4bf093637fd50cadbf24f042dbd"
+    },
+    {
+        "datetime": 1614221510000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f22ebfbeff930947b04b1a9d74afd335"
+    },
+    {
+        "datetime": 1614221625000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "f22ebfbeff930947b04b1a9d74afd335"
+    },
+    {
+        "datetime": 1614221798000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f22ebfbeff930947b04b1a9d74afd335"
+    },
+    {
+        "datetime": 1614222080000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f22ebfbeff930947b04b1a9d74afd335"
+    },
+    {
+        "datetime": 1614222402000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f22ebfbeff930947b04b1a9d74afd335"
+    },
+    {
+        "datetime": 1614222494000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "f22ebfbeff930947b04b1a9d74afd335"
+    },
+    {
+        "datetime": 1614223486000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614223671000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614223753000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614224081000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614224148000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614229049000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614229170000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614229736000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614230573000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614230662000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614230822000,
+        "event_type": "test",
+        "improvement": 20,
+        "skill_id": "2b8cd8c9e26f3cf4564e3f04e24b8873"
+    },
+    {
+        "datetime": 1614230942000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614231012000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614231071000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614233273000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614233415000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614237000000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614237122000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614237291000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614237446000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614237740000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614237856000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614238093000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614238302000,
+        "event_type": "practice",
+        "improvement": 22,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614238407000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614238508000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614238608000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614238686000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614238919000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614239110000,
+        "event_type": "practice",
+        "improvement": 46,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614239242000,
+        "event_type": null,
+        "improvement": 20,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614239297000,
+        "event_type": null,
+        "improvement": 6,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614239647000,
+        "event_type": "test",
+        "improvement": 20,
+        "skill_id": "ba3d4e212ccd1819ae3b221134d5689c"
+    },
+    {
+        "datetime": 1614241380000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614241493000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614241555000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614241638000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614241804000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614242270000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614242336000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614242414000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614242545000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614242820000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614242912000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614243028000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614243147000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614243249000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614243503000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614243607000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614243751000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614245015000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614245960000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614246263000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614246315000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614246495000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614246859000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614246945000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614247180000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614247243000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614247409000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614247508000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614247648000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614247725000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614248300000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614248393000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2b68e710e9f06b7ab984405c0fa0cfb8"
+    },
+    {
+        "datetime": 1614257116000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614257237000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614257358000,
+        "event_type": "lesson",
+        "improvement": 25,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614257571000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614257764000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614257861000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614258019000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614258144000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614258271000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614258411000,
+        "event_type": "lesson",
+        "improvement": 24,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614258532000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614258738000,
+        "event_type": "practice",
+        "improvement": 44,
+        "skill_id": "84eccf163a429f6b4e1d60f7ac30dd6d"
+    },
+    {
+        "datetime": 1614258848000,
+        "event_type": null,
+        "improvement": 16,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614287195000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614290456000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614290608000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614297291000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614297821000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614303628000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614303773000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614309673000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614309898000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614310079000,
+        "event_type": "practice",
+        "improvement": 22,
+        "skill_id": "c0d917aaba5f135255d64e5ea4e67e73"
+    },
+    {
+        "datetime": 1614310128000,
+        "event_type": null,
+        "improvement": 10,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614310195000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614310267000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614310336000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614310430000,
+        "event_type": "practice",
+        "improvement": 50,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614310531000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614310583000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614310655000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614310766000,
+        "event_type": "practice",
+        "improvement": 50,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614311052000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614311238000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614311375000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614311565000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614313690000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614313882000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614313948000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614314012000,
+        "event_type": "practice",
+        "improvement": 24,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614314156000,
+        "event_type": null,
+        "improvement": 4,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614321136000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614321277000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614321355000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614321452000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "2d7cdde5549f60bdbd38bf6e169df853"
+    },
+    {
+        "datetime": 1614321531000,
+        "event_type": null,
+        "improvement": 4,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614321637000,
+        "event_type": "lesson",
+        "improvement": 24,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614321775000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614321883000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614322007000,
+        "event_type": "practice",
+        "improvement": 48,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614322161000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614322431000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614322517000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614322637000,
+        "event_type": "practice",
+        "improvement": 24,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614322718000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614322828000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614322936000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614323048000,
+        "event_type": "practice",
+        "improvement": 50,
+        "skill_id": "9bed47bf0a11ae48fc67c116d2a9e28e"
+    },
+    {
+        "datetime": 1614323144000,
+        "event_type": null,
+        "improvement": 12,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614323283000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614323367000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614323473000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614323587000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614323643000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614323744000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614323870000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614323974000,
+        "event_type": "practice",
+        "improvement": 50,
+        "skill_id": "b3af179668a60df5c283b48ebb3bde38"
+    },
+    {
+        "datetime": 1614324004000,
+        "event_type": null,
+        "improvement": 2,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614324142000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "eaef3db2ab9e58d74d636879532400fb"
+    },
+    {
+        "datetime": 1614324273000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "573bfdf6521cceff44eb0af4f3aa1ccd"
+    },
+    {
+        "datetime": 1614324428000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "d346959d48635ff16fce7b7071ac6270"
+    },
+    {
+        "datetime": 1614324506000,
+        "event_type": null,
+        "improvement": 8,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614359403000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "d9b32f1072efe684f1dceb960616d6fb"
+    },
+    {
+        "datetime": 1614359583000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "f4084dbe49500b91db7b1088e540ccc0"
+    },
+    {
+        "datetime": 1614360077000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "328e3d843e909343af6dc137b8ced734"
+    },
+    {
+        "datetime": 1614361509000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614361628000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614361787000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614362045000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614362166000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614365564000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614365609000,
+        "event_type": "practice",
+        "improvement": 23,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614365731000,
+        "event_type": "practice",
+        "improvement": 40,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614365863000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "317d69b2e6b1e1de444db8150370bf66"
+    },
+    {
+        "datetime": 1614366225000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "317d69b2e6b1e1de444db8150370bf66"
+    },
+    {
+        "datetime": 1614366365000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "cae34a4cd17e6d1b8b11610ec5f7225f"
+    },
+    {
+        "datetime": 1614366484000,
+        "event_type": "lesson",
+        "improvement": 24,
+        "skill_id": "cae34a4cd17e6d1b8b11610ec5f7225f"
+    },
+    {
+        "datetime": 1614366552000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "cae34a4cd17e6d1b8b11610ec5f7225f"
+    },
+    {
+        "datetime": 1614366769000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614367226000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614367398000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614367574000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614367955000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614368138000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614368393000,
+        "event_type": null,
+        "improvement": 20,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614368501000,
+        "event_type": "practice",
+        "improvement": 24,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614368631000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614368747000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614368892000,
+        "event_type": "lesson",
+        "improvement": 24,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614369030000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614369146000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614369314000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614369419000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614369512000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7ac7004f79c9bbd8652811319be9e029"
+    },
+    {
+        "datetime": 1614375058000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614375148000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614375396000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614379509000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614379565000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614379633000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614379792000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614383223000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614383314000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614387669000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614387758000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614387837000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614387920000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614391102000,
+        "event_type": "practice",
+        "improvement": 22,
+        "skill_id": "7113d2144674c9cdb9a7c2f434b35216"
+    },
+    {
+        "datetime": 1614391297000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "fd301473c2d4d050da410ea2899a6710"
+    },
+    {
+        "datetime": 1614437132000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "9df64263140fe4eee3274855d4caa55e"
+    },
+    {
+        "datetime": 1614437376000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "9357a25f1383014b34bf8945dcebaaf6"
+    },
+    {
+        "datetime": 1614437538000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "a348a37b531b0354eb87b6d73a0c8f81"
+    },
+    {
+        "datetime": 1614437569000,
+        "event_type": null,
+        "improvement": 8,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614440023000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "98210fa9c48b46768379107a12c87aae"
+    },
+    {
+        "datetime": 1614440136000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "514636b28a79370fb5252a596554bf2d"
+    },
+    {
+        "datetime": 1614457120000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "507161eab1c8b4b98084b77c87ffa7ba"
+    },
+    {
+        "datetime": 1614457309000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614457523000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "507161eab1c8b4b98084b77c87ffa7ba"
+    },
+    {
+        "datetime": 1614484872000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "507161eab1c8b4b98084b77c87ffa7ba"
+    },
+    {
+        "datetime": 1614484992000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "507161eab1c8b4b98084b77c87ffa7ba"
+    },
+    {
+        "datetime": 1614485137000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "507161eab1c8b4b98084b77c87ffa7ba"
+    },
+    {
+        "datetime": 1614485287000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "507161eab1c8b4b98084b77c87ffa7ba"
+    },
+    {
+        "datetime": 1614485387000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "507161eab1c8b4b98084b77c87ffa7ba"
+    },
+    {
+        "datetime": 1614559160000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "0e93fb90662449b2c09daa88e664780c"
+    },
+    {
+        "datetime": 1614559326000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "0e93fb90662449b2c09daa88e664780c"
+    },
+    {
+        "datetime": 1614559421000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "0e93fb90662449b2c09daa88e664780c"
+    },
+    {
+        "datetime": 1614559515000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "0e93fb90662449b2c09daa88e664780c"
+    },
+    {
+        "datetime": 1614561717000,
+        "event_type": "practice",
+        "improvement": 23,
+        "skill_id": "0e93fb90662449b2c09daa88e664780c"
+    },
+    {
+        "datetime": 1614561790000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "0e93fb90662449b2c09daa88e664780c"
+    },
+    {
+        "datetime": 1614561911000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "0e93fb90662449b2c09daa88e664780c"
+    },
+    {
+        "datetime": 1614562039000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "0e93fb90662449b2c09daa88e664780c"
+    },
+    {
+        "datetime": 1614562151000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "0e93fb90662449b2c09daa88e664780c"
+    },
+    {
+        "datetime": 1614562324000,
+        "event_type": "lesson",
+        "improvement": 24,
+        "skill_id": "0e93fb90662449b2c09daa88e664780c"
+    },
+    {
+        "datetime": 1614562382000,
+        "event_type": null,
+        "improvement": 16,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614562504000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "903950f92a3aff22e6abba507c882feb"
+    },
+    {
+        "datetime": 1614562582000,
+        "event_type": "practice",
+        "improvement": 50,
+        "skill_id": "903950f92a3aff22e6abba507c882feb"
+    },
+    {
+        "datetime": 1614562724000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "903950f92a3aff22e6abba507c882feb"
+    },
+    {
+        "datetime": 1614563606000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "903950f92a3aff22e6abba507c882feb"
+    },
+    {
+        "datetime": 1614563738000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "903950f92a3aff22e6abba507c882feb"
+    },
+    {
+        "datetime": 1614563817000,
+        "event_type": "practice",
+        "improvement": 50,
+        "skill_id": "903950f92a3aff22e6abba507c882feb"
+    },
+    {
+        "datetime": 1614563947000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "903950f92a3aff22e6abba507c882feb"
+    },
+    {
+        "datetime": 1614564028000,
+        "event_type": "practice",
+        "improvement": 50,
+        "skill_id": "903950f92a3aff22e6abba507c882feb"
+    },
+    {
+        "datetime": 1614564166000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "903950f92a3aff22e6abba507c882feb"
+    },
+    {
+        "datetime": 1614564287000,
+        "event_type": "practice",
+        "improvement": 50,
+        "skill_id": "903950f92a3aff22e6abba507c882feb"
+    },
+    {
+        "datetime": 1614564348000,
+        "event_type": null,
+        "improvement": 10,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614564458000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614566573000,
+        "event_type": "practice",
+        "improvement": 40,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614566679000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614566854000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614566976000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "5fdaa11c8f65b438f143353bc59943e1"
+    },
+    {
+        "datetime": 1614567112000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "795753c688ada389812d01b67494fd5b"
+    },
+    {
+        "datetime": 1614567268000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "3bcfc1ca904e65f4eb4d512722defddd"
+    },
+    {
+        "datetime": 1614567299000,
+        "event_type": null,
+        "improvement": 6,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614568759000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614568878000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614569012000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614584207000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614584325000,
+        "event_type": "practice",
+        "improvement": 24,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614584431000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614584558000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614584690000,
+        "event_type": "lesson",
+        "improvement": 24,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614584745000,
+        "event_type": null,
+        "improvement": 8,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614584834000,
+        "event_type": "practice",
+        "improvement": 48,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614584932000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614585032000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614585112000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614585142000,
+        "event_type": null,
+        "improvement": 6,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614588943000,
+        "event_type": null,
+        "improvement": 2,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614589195000,
+        "event_type": "practice",
+        "improvement": 22,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614589339000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "c6afc11876e11050c1e18fbdf7ed3f66"
+    },
+    {
+        "datetime": 1614589477000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "211f84c9aae934c43033889bb2099266"
+    },
+    {
+        "datetime": 1614589644000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "ffe96808df779603127fe27c7d10c09e"
+    },
+    {
+        "datetime": 1614589664000,
+        "event_type": null,
+        "improvement": 2,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614589854000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614589966000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1614590063000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1614595652000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1614595726000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1614595830000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1614595856000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1614596000000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "4c97b07f23a4a3bcb4baec563b859dcf"
+    },
+    {
+        "datetime": 1614596132000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "9c13bdbc2eed8d24d69f4b0864491e30"
+    },
+    {
+        "datetime": 1614596299000,
+        "event_type": "practice",
+        "improvement": 20,
+        "skill_id": "fac834d49c908f6728533d9cbe38892b"
+    },
+    {
+        "datetime": 1614596585000,
+        "event_type": "lesson",
+        "improvement": 24,
+        "skill_id": "9ac05497f709e78b1c30ce7601d69da8"
+    },
+    {
+        "datetime": 1614596728000,
+        "event_type": null,
+        "improvement": 14,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614625034000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614625167000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614625303000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614625348000,
+        "event_type": null,
+        "improvement": 8,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614634516000,
+        "event_type": "practice",
+        "improvement": 23,
+        "skill_id": "7ba8537ba7b0e75e175a89c1e603cb36"
+    },
+    {
+        "datetime": 1614634631000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614634721000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614634801000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614634920000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614635034000,
+        "event_type": "practice",
+        "improvement": 46,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614635133000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614635288000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614635379000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614635498000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614640256000,
+        "event_type": "practice",
+        "improvement": 25,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614640323000,
+        "event_type": null,
+        "improvement": 18,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614640444000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614640569000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614640675000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614640766000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614640958000,
+        "event_type": "practice",
+        "improvement": 44,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614641037000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614641120000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614641225000,
+        "event_type": null,
+        "improvement": 12,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614739543000,
+        "event_type": null,
+        "improvement": 2,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614836065000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "d9b3bc02a686a342282dd6a607fa5a74"
+    },
+    {
+        "datetime": 1614848673000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "5855a0423cfc79836a02ec61b1e6ebc4"
+    },
+    {
+        "datetime": 1614848898000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "3268cf9a487e81bbc2c252106133387a"
+    },
+    {
+        "datetime": 1614849064000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614849457000,
+        "event_type": "lesson",
+        "improvement": 23,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614849664000,
+        "event_type": "practice",
+        "improvement": 22,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614849817000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614849980000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614850094000,
+        "event_type": null,
+        "improvement": 20,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614850126000,
+        "event_type": null,
+        "improvement": 4,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614918674000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614983891000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "9d83c538a73320a4bec1a0a85ac91703"
+    },
+    {
+        "datetime": 1614986414000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614986865000,
+        "event_type": "practice",
+        "improvement": 22,
+        "skill_id": "8a9f478eb7ee83c11e17cccaad664288"
+    },
+    {
+        "datetime": 1614987036000,
+        "event_type": "lesson",
+        "improvement": 26,
+        "skill_id": "27b4e79896dfd2c47dc75214ceebcc20"
+    },
+    {
+        "datetime": 1614987268000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "27b4e79896dfd2c47dc75214ceebcc20"
+    },
+    {
+        "datetime": 1614987400000,
+        "event_type": "lesson",
+        "improvement": 28,
+        "skill_id": "27b4e79896dfd2c47dc75214ceebcc20"
+    },
+    {
+        "datetime": 1614987491000,
+        "event_type": "practice",
+        "improvement": 48,
+        "skill_id": "27b4e79896dfd2c47dc75214ceebcc20"
+    },
+    {
+        "datetime": 1614987661000,
+        "event_type": "lesson",
+        "improvement": 30,
+        "skill_id": "27b4e79896dfd2c47dc75214ceebcc20"
+    },
+    {
+        "datetime": 1614987796000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "27b4e79896dfd2c47dc75214ceebcc20"
+    },
+    {
+        "datetime": 1614987928000,
+        "event_type": null,
+        "improvement": 20,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614987962000,
+        "event_type": null,
+        "improvement": 4,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614988191000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "3b82513a9a615e61893820f9ad4d9fb5"
+    },
+    {
+        "datetime": 1614988407000,
+        "event_type": null,
+        "improvement": 4,
+        "skill_id": null
+    },
+    {
+        "datetime": 1614988513000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "ce68a7988e4dc36197b86870828b3041"
+    },
+    {
+        "datetime": 1614988691000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "faeb020c5e7ce62a0a9f6d32dfdd4927"
+    },
+    {
+        "datetime": 1614989676000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "0dc4d42d2d73d7a6a5208d59081c6b99"
+    },
+    {
+        "datetime": 1614990032000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "8b8ea3e216228659d9b33f27af1e2c41"
+    },
+    {
+        "datetime": 1615063790000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1615063876000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1615063974000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1615064082000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1615065390000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1615065487000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1615065591000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1615065661000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1615065740000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "6dbfa4dc2714058392f18535d0760c49"
+    },
+    {
+        "datetime": 1615066057000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "36bad985a7667ceac680cbc037350481"
+    },
+    {
+        "datetime": 1615066125000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1615066225000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1615066331000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1615066395000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1615091278000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1615091358000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1615091490000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "bd0db553bec87c8b3e70fc7bb7ed83a4"
+    },
+    {
+        "datetime": 1615092304000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "33f1d8ceebf80f5baa5ca305afdcd399"
+    },
+    {
+        "datetime": 1615092521000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "812883de38afbc0d0376728f9bfa7d21"
+    },
+    {
+        "datetime": 1615092622000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "05901bbe6fcc68047fc563a841854221"
+    },
+    {
+        "datetime": 1615107834000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "884d6496df32fbc93937e5b590cb1a07"
+    },
+    {
+        "datetime": 1615108107000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "ac123456952d9cda786b47abea540d1b"
+    },
+    {
+        "datetime": 1615108434000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "1ebef1a1067eb2f992259c7817ab4102"
+    },
+    {
+        "datetime": 1615108517000,
+        "event_type": "lesson",
+        "improvement": 12,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615108726000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615108919000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109046000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109143000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109224000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109331000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109424000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109549000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109614000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109687000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109770000,
+        "event_type": "lesson",
+        "improvement": 14,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109840000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109882000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615109985000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615110153000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615110215000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615110262000,
+        "event_type": "lesson",
+        "improvement": 15,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615110363000,
+        "event_type": "lesson",
+        "improvement": 13,
+        "skill_id": "9dbd36a0c6429e92ae2b4a9c49cb4154"
+    },
+    {
+        "datetime": 1615110627000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "8f37a0374566ce77cce845a72381dbaa"
+    },
+    {
+        "datetime": 1615110806000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "64921ded6823e564da97bbe379c1d585"
+    },
+    {
+        "datetime": 1615111003000,
+        "event_type": "practice",
+        "improvement": 10,
+        "skill_id": "50cb0e4b65671356565daa78fa858246"
+    }
+]
